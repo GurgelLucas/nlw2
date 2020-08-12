@@ -126,15 +126,18 @@
 
   #page-teacher-form main .schedule-item .remove-item {
     width: 100%;
-    height: 5.6rem;
     border: none;
     border-radius: 0.8rem;
+    font: 700 2rem Archivo;
+    color: white;
+    background: red;
     cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 40%;
     text-decoration: none;
-    margin-top: 3.2rem;
+    margin-top: 4.2rem;
   }
 
   #page-teacher-form main footer {

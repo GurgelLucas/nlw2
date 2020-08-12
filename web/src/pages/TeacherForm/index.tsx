@@ -207,7 +207,7 @@ export default function TeacherForm() {
                   className="remove-item"
                   onClick={() => removeScheduleItem()}
                 >
-                  Del
+                  X
                 </button>
               </div>
             ))}
